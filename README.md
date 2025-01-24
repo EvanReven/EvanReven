@@ -1,36 +1,66 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# YULIUS EVAN KARUNIA
 
-###
+## Introduction
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+Hello everyone! I'm Yulius Evan Karunia, an enthusiastic programmer on a journey to become a full-stack web developer. I have been actively exploring web development and have a strong interest in creating visually compelling and user-friendly websites. My GitHub journey started on January 10, 2022, and I have been continuously learning and contributing to various projects ever since.
 
-###
+## Skills and Interests
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+Here are some of the skills and technologies I have been working with:
 
-###
+- **Languages**: JavaScript, CSS, PHP, SCSS, HTML, Pug, Ruby, Java
+- **Backend**: Node.js (Express, Fastify)
+- **Mobile App**: Android Development
+- **Databases**: MongoDB, MySQL, SQLite
+- **DevOps**: AWS, Docker, Route53, Nginx
+- **Other Technologies**: Firebase, Socket.IO, Selenium, OpenCV, SuiteApp
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+I love diving deep into different technologies and exploring their potential. From building serverless applications to developing progressive web applications, I enjoy exploring a wide range of architectures and using the right tools for the job.
 
-###
+## Latest Project
+
+One of my latest projects is "web_ecomarce", which focuses on creating a responsive and user-friendly e-commerce website. The project allowed me to showcase my skills in web development and further enhance my knowledge of front-end technologies such as JavaScript, HTML, SCSS, and more. Although it is still a work in progress, I'm excited about the potential it holds.
+
+## GitHub Stats
+
+Let's take a look at my GitHub stats:
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=EvanReven)
+
+From the stats above, you can see that I have a moderate level of activity on GitHub. In total, I have 18 public repositories and 12 commits. While my commit frequency may be relatively low, it is important to note that I have worked on a diverse range of projects that required different technologies and skillsets.
+
+## Top Languages
+
+Here are the programming languages I have been frequently using across my repositories:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvanReven)
+
+As you can see, I have worked extensively with JavaScript, CSS, PHP, SCSS, HTML, Pug, Ruby, and Java. This diverse skill set enables me to tackle various projects and contribute effectively to different teams.
+
+## Open Source Contributions
+
+Apart from creating my own repositories, I have also made valuable contributions to other projects. While I don't have the specific count and nature of these contributions, I take great pride in collaborating with other developers and learning from their expertise. Open-source culture has always been a significant part of my programming journey, and I strive to make positive impacts wherever I can.
+
+## Featured Projects
+
+Let's have a brief look at some of my featured projects:
+
+- **web_ecomarce**: A responsive e-commerce website built with JavaScript, HTML, CSS, and SCSS.
+- **ecomarce**: An earlier iteration of the e-commerce website, showcasing my progress over time.
+- **BSIP**: A pen-testing project aimed at identifying and removing vulnerabilities in web applications.
+- **projek-pak-janu**: A personal project where I experiment with various web technologies to create unique solutions.
+- **BROWSER_SEDERHANA**: A simple web browser application developed using Java.
+
+Please feel free to explore these repositories in more detail to get a better understanding of my work.
+
+## Connect with Me
+
+If you want to get in touch with me or learn more about my journey, you can find me on the following platforms:
+
+- GitHub: [Yulius Evan Karunia](https://github.com/EvanReven)
+- LinkedIn: [Yulius Evan Karunia](https://www.linkedin.com/in/evankarunia/)
+- Email: [evankarunia@gmail.com](mailto:evankarunia@gmail.com)
+
+## Conclusion
+
+Thank you for taking the time to explore my GitHub profile. I'm dedicated to honing my skills as a full-stack web developer and working on exciting projects that challenge me to grow. I believe in the power of collaboration and open-source contributions, and I'm always looking forward to connecting with like-minded individuals. Let's create amazing things together!
